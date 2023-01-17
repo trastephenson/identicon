@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+**A simple program written in Elixir that generates and saves an unique Identicon based off of your name. If you are into Elixir, give it a go.**
 
 ## Installation
 
